@@ -2,6 +2,8 @@
   <p align="center">
 An open source NFT marketplace built on Reservoir, Thirdweb SDK and Manifold Creator Contracts.
 
+<h3>🄶🄾🄾🄳 🅅🄸🄱🄴🅂 🄾🄷🄼🄻🅈</h3>
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project

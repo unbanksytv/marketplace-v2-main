@@ -39,7 +39,7 @@ class MyDocument extends Document {
         <meta name="keywords" content="NFT, API, Protocol" />
         {/* Twitter */}
         {/* The optimal size is 1200 x 630 (1.91:1 ratio). */}
-        {/* <meta name="twitter:image" content="Reservoir Market | Open Source NFT Marketplace" /> */}
+        {/* <meta name="twitter:image" content="Odyssey | Open Source NFT Marketplace" /> */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
