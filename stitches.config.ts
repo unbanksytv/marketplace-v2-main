@@ -106,7 +106,7 @@ export const { createTheme, keyframes, styled, globalCss, getCssText } =
       fontSizes: {},
       fontWeights: {},
       fonts: {
-        body: 'Boska-Bold',
+        body: 'Epilogue',
         button: '$body',
       },
       lineHeights: {},
