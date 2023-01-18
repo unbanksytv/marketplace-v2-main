@@ -31,10 +31,10 @@ class MyDocument extends Document {
           type="image/svg"
           href="https://market.reservoir.tools/reservoir.svg"
         />
-        <title>Reservoir Market | Open Source NFT Marketplace</title>
+        <title>Odyssey | Open Source NFT Marketplace</title>
         <meta
           name="description"
-          content="Reservoir Market is an open source NFT marketplace built with Reservoir."
+          content="Odyssey is an open source NFT marketplace built with Reservoir."
         />
         <meta name="keywords" content="NFT, API, Protocol" />
         {/* Twitter */}
@@ -43,11 +43,11 @@ class MyDocument extends Document {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Reservoir Market | Open Source NFT Marketplace"
+          content="Odyssey | Open Source NFT Marketplace"
         />
         <meta
           name="twitter:description"
-          content="Reservoir Market is an open source NFT marketplace built with Reservoir."
+          content="Odyssey is an open source NFT marketplace built with Reservoir."
         />
         <meta name="twitter:site" content="@reservoir0x" />
 
@@ -55,14 +55,14 @@ class MyDocument extends Document {
         {/* https://www.opengraph.xyz/ */}
         <meta
           name="og:title"
-          content="Reservoir Market | Open Source NFT Marketplace"
+          content="Odyssey | Open Source NFT Marketplace"
         />
         <meta property="og:type" content="website" />
         <meta property="og:determiner" content="the" />
         <meta property="og:locale" content="en" />
         <meta
           property="og:description"
-          content="Reservoir Market is an open source NFT marketplace built with Reservoir."
+          content="Odyssey is an open source NFT marketplace built with Reservoir."
         />
         {/* The optimal size is 1200 x 630 (1.91:1 ratio). */}
         {/* <meta property="og:image" content={OG_IMAGE} /> */}
