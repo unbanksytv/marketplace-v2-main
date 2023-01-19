@@ -57,8 +57,8 @@ const wagmiClient = createClient({
 })
 
 const reservoirKitThemeOverrides = {
-  headlineFont: 'Satoshi',
-  font: 'Satoshi',
+  headlineFont: 'epilogue',
+  font: 'boska-bold',
   primaryColor: '#A1100F',
   primaryHoverColor: '#a62a29',
 }
